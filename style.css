@@ -16,6 +16,25 @@ li{
     padding: 8px;
 }
 
-head{
-    margin: 0%;
+.btn{
+    padding: 5px; color: aliceblue; background-color: red;
+}
+
+.boody{
+    color: aliceblue;
+    
+}
+
+.chest{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   background-image: url(images/background.png);
+   background-color: rgb(51, 49, 49);
+   padding: 200px;
+   margin-right: 20px;
+}
+
+#heading{
+    font-size: 50px;
 }
