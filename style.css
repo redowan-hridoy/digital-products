@@ -38,3 +38,14 @@ li{
 #heading{
     font-size: 50px;
 }
+
+.abh{
+    font-size: 50px;
+    text-align: center;
+    padding: 30px;
+}
+.about{
+    display: flex;
+  justify-content: space-around;
+    align-items: center;
+}
